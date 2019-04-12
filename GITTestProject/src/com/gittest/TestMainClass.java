@@ -6,6 +6,7 @@ public class TestMainClass {
 		// TODO Auto-generated method stub
 		System.out.println("Hello world ");
 		System.out.println("Test");
+		System.out.println("Test2");
 	}
 
 }
