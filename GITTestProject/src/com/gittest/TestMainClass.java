@@ -8,6 +8,7 @@ public class TestMainClass {
 		System.out.println("Test");
 		System.out.println("Test2");
 		system.out.println("Test remote");
+		System.out.println("remote comment new ");
 	}
 
 }
